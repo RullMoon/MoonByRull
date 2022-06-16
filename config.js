@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','918188019676']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.monayawal = '100000'
+global.owner = ['6285746030186','6285746030186']
+global.premium = ['6285746030186','6285746030186']
+global.botname = 'Moon'
+global.ownername = 'Rull'
+global.group1 = 'https://chat.whatsapp.com/GcNqdNAWqLE17kmenErzfe'
+global.group2 = 'https://chat.whatsapp.com/GcNqdNAWqLE17kmenErzfe'
+global.packname = 'MoonBot'
+global.monayawal = '100'
 global.darahawal = '100'
 global.besiAwal = '15'
 global.goldAwal = '10'
@@ -58,22 +58,22 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'MoonBot'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
-global.sessionName = 'session'
+global.sessionName = 'session.data'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
-    endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
+    success: '*success*',
+        ban: '*Sepertinya Kamu Di Banned Oleh Owner Bot, Ketik .owner untuk di unban :D*',
+    admin: '*Perintah Ini Hanya Untuk Admin*',
+    botAdmin: '*Mohon Jadikan Bot Admin Terlebih Dahulu*',
+    owner: '*Perintah Ini Hanya Untuk Owner*',
+    group: '*Perintah Ini Hanya untuk Grub*',
+    private: '*Perintah Ini Hanya Untuk Private Chat*',
+    bot: '*Perintah Ini Hanya Untuk Nomor Bot*',
+    wait: '*Moon Sedang Proses*',
+    endLimit: '*Limit Anda Telah Habis Mohon Beli Limit, Atau Menunggu 12 Jam Untuk Mendapat Limit*',
 }
 global.limitawal = {
     premium: "Infinity",
